@@ -10,4 +10,4 @@ My AI/ML learning journey.
 - Scikit-Learn
 
 ## Goal
-To become an AI/ML Engineer.
+Become an AI/ML Engineer and build real-world Machine Learning and Deep Learning projects.
