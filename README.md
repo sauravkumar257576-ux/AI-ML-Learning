@@ -1,2 +1,13 @@
 # AI-ML-Learning
-"My AI/ML learning journey with Python, NumPy, Pandas, Matplotlib, Scikit-Learn, and future AI projects.
+
+My AI/ML learning journey.
+
+## Skills
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-Learn
+
+## Goal
+To become an AI/ML Engineer.
